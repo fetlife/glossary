@@ -1,53 +1,53 @@
 section_name: Genders
 terms:
-  - male:
-      name: Male
-      definition: A person who has the identity and characteristics of a man.
-  - female:
-      name: Female
-      definition: A person who has the identity and characteristics of a woman.
-  - cdtv:
-      name: Crossdresser/Transvestite
-      definition: A person who likes to dress and act in a style or manner traditionally associated with the opposite gender.
-  - transgender:
-      name: Transgender
-      definition: A person whose sense of personal identity and gender does not correspond with their biological sex assigned at birth.
-  - transsexual:
-      name: Transsexual
-      definition: A person who does not identify with the sex they were born with and is transitioning to the gender with which they identity, usually (but not always) with medical assistance.
-  - trans_man:
-      name: Trans Man
-      definition: A person who is transgender or transsexual and identifies as a man.
-  - trans_woman:
-      name: Trans Woman
-      definition: A person who is transgender or transsexual and identifies as a woman.
-  - intersex:
-      name: Intersex
-      definition: A person who is born with a reproductive or sexual anatomy that doesn't seem to fit the typical definitions of female or male.
+  - agender:
+      name: Agender
+      definition: A person who does not identify as having a gender.
+  - androgynous:
+      name: Androgynous
+      definition: A person who identifies with both feminine and masculine characteristics.
+  - bi_gender:
+      name: Bi-gender
+      definition: A person who identifies with two or more genders, either at the same or different times.
   - butch:
       name: Butch
       definition: A person who is typically female-identified whose social and relationship roles are perceived by many as being masculine, often having a lesbian, gay, or queer orientation.
+  - cdtv:
+      name: Crossdresser/Transvestite
+      definition: A person who likes to dress and act in a style or manner traditionally associated with the opposite gender.
+  - female:
+      name: Female
+      definition: A person who has the identity and characteristics of a woman.
   - femme:
       name: Femme
       definition: A person who has an appearance or other characteristics traditionally seen as feminine, often having a lesbian, gay, or queer orientation.
-  - non_binary:
-      name: Non-Binary
-      definition: A person whose gender identity falls outside the male-female binary.
   - gender_fluid:
       name: Gender Fluid
       definition: A person who fluctuates between more than one gender, or between having a gender and not having one.
   - genderqueer:
       name: Genderqueer
       definition: A person whose gender identity falls outside the male-female binary.
-  - androgynous:
-      name: Androgynous
-      definition: A person who identifies with both feminine and masculine characteristics.
-  - agender:
-      name: Agender
-      definition: A person who does not identify as having a gender.
-  - bi_gender:
-      name: Bi-gender
-      definition: A person who identifies with two or more genders, either at the same or different times.
+  - intersex:
+      name: Intersex
+      definition: A person who is born with a reproductive or sexual anatomy that doesn't seem to fit the typical definitions of female or male.
+  - male:
+      name: Male
+      definition: A person who has the identity and characteristics of a man.
+  - non_binary:
+      name: Non-Binary
+      definition: A person whose gender identity falls outside the male-female binary.
+  - trans_man:
+      name: Trans Man
+      definition: A person who is transgender or transsexual and identifies as a man.
+  - trans_woman:
+      name: Trans Woman
+      definition: A person who is transgender or transsexual and identifies as a woman.
+  - transgender:
+      name: Transgender
+      definition: A person whose sense of personal identity and gender does not correspond with their biological sex assigned at birth.
+  - transsexual:
+      name: Transsexual
+      definition: A person who does not identify with the sex they were born with and is transitioning to the gender with which they identity, usually (but not always) with medical assistance.
   - two_spirit:
       name: Two-Spirit
       definition: A person who has both a masculine and a feminine spirit. Used by Indigenous First Nations and Native American peoples to describe their sexual, gender and/or spiritual identity.
