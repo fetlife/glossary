@@ -1,209 +1,56 @@
 section_name: Roles
 terms:
+  - ageplayer:
+      name: Ageplayer
+      definition: A person who engages in role-play where a different age is taken on by one or more of the participants.
+  - babyboy:
+      name: Babyboy
+      definition: A person who seeks a parental and/or nurturing figure in a relationship, with some identifying as or role playing as a young boy. Also used as an endearment for a male-identified submissive.
+  - babygirl:
+      name: Babygirl
+      definition: A person who seeks a parental and/or nurturing figure in a relationship, with some identifying as or role playing as a young girl. Also used as an endearment for a female-identified submissive.
+  - big:
+      name: Big
+      definition: A person who is nurturing and/or parental in a relationship dynamic.
+  - bootblack:
+      name: Bootblack
+      definition: A person who specializes in polishing and/or spit-shining boots as part of play, for love of the craft, and/or as a way to give back to the kink community.
+  - bottom:
+      name: Bottom
+      definition: A person who agrees to give up control or receives the stimulation during kinky activities that may or may not include submission.
+  - brat:
+      name: Brat
+      definition: A person who likes to exhibit one or more of the following behaviors: teasing, playful, sneaky, mischievous, stubborn, rebellious, disrespectful or disobedient. This behavior may be a component of their power exchange relationship.
+  - bull:
+      name: Bull
+      definition: A man who engages in sex with a woman whose partner enjoys the cuckold dynamic.
+  - cougar:
+      name: Cougar
+      definition: An older woman who is primarily interested in men significantly younger than her.
+  - cuckold:
+      name: Cuckold
+      definition: A man who enjoys the humiliation and/or voyeuristic experience of watching or knowing their partner has sex with someone else.
+  - cuckoldress:
+      name: Cuckoldress
+      definition: A woman who may pursue sexual relationships with men other than her partner, oftentimes to humiliate or degrade her partner. Her partner has full knowledge of her activities and consents to them.
+  - cuckquean:
+      name: Cuckquean
+      definition: A woman who enjoys the humiliation and/or voyeuristic experience of watching or knowing their partner has sex with someone else.
+  - daddy:
+      name: Daddy
+      definition: A person who is nurturing and/or paternal in a relationship.
+  - disciplinarian:
+      name: Disciplinarian
+      definition: A person who believes in or practices firm discipline.
+  - doll:
+      name: Doll
+      definition: A person who enjoys objectification and wants to be transformed through one's own and/or outside forces into a living doll.
   - dominant:
       name: Dominant
       definition: A person who consensually takes power, authority or control in a relationship, scene or activity.
   - domme:
       name: Domme
       definition: A female-identifying person who consensually takes power, authority, or control in a relationship, scene or activity.
-  - switch:
-      name: Switch
-      definition: A person who participates in relationships, scenes and activities as a Top/Dominant or bottom/submissive depending on their mood, partner or the situation. Some switches enjoy changing their power dynamic during the scene.
-  - submissive:
-      name: submissive
-      definition: A person who agrees to submit or give up control in a relationship, scene or activity.
-  - master:
-      name: Master
-      definition: A person who consensually takes ownership over someone who they are in a relationship with.
-  - mistress:
-      name: Mistress
-      definition: A person who consensually takes ownership over someone who they are in a relationship with.
-  - slave:
-      name: slave
-      definition: A person who agrees to give total control to someone who they are in a relationship with.
-  - kajira:
-      name: kajira
-      definition: A female owned-property slave, as per the world of Gor in John Norman’s fantasy novels.
-  - kajirus:
-      name: kajirus
-      definition: A male owned-property slave, as per the world of Gor in John Norman’s fantasy novels.
-  - top:
-      name: Top
-      definition: A person who is consensually in control of the action during kinky activities.
-  - bottom:
-      name: Bottom
-      definition: A person who agrees to give up control or receives the stimulation during kinky activities that may or may not include submission.
-  - disciplinarian:
-      name: Disciplinarian
-      definition: A person who believes in or practices firm discipline.
-  - sadist:
-      name: Sadist
-      definition: A person who enjoys inflicting humiliation or pain consensually on someone, whether it’s emotionally, mentally or physically.
-  - masochist:
-      name: Masochist
-      definition: A person who enjoys receiving pain or humiliation consensually, whether it’s emotionally, mentally or physically.
-  - sadomasochist:
-      name: Sadomasochist
-      definition: A person who engages in sadism and/or masochism.
-  - kinkster:
-      name: Kinkster
-      definition: A person who doesn’t want to define their role while engaging in power exchange, role play, sadomasochism, cross-dressing and/or fetishes.
-  - fetishist:
-      name: Fetishist
-      definition: A person who is aroused by objects or nonsexual parts of the body.
-  - swinger:
-      name: Swinger
-      definition: A person who has consensual sex with other people within and outside of their committed relationships.
-  - hedonist:
-      name: Hedonist
-      definition: A person with a strong focus on the pursuit of pleasure.
-  - exhibitionist:
-      name: Exhibitionist
-      definition: A person who enjoys displaying themselves in a public or semi-public manner in order to attract attention.
-  - voyeur:
-      name: Voyeur
-      definition: A person who enjoys watching others, usually in a sexual context, without engaging with them.
-  - sensualist:
-      name: Sensualist
-      definition: A person with a strong focus on the pursuit of sensual pleasures and interests.
-  - princess:
-      name: Princess
-      definition: A person who requires a very particular treatment of praise, care, and attention.
-  - cougar:
-      name: Cougar
-      definition: An older woman who is primarily interested in men significantly younger than her.
-  - slut:
-      name: Slut
-      definition: A person who embraces the freedom to engage in sexual activity in accordance with their desires, with one or multiple partners, regardless of conventional values.
-  - doll:
-      name: Doll
-      definition: A person who enjoys objectification and wants to be transformed through one's own and/or outside forces into a living doll.
-  - toy:
-      name: Toy
-      definition: One who is treated and played with like a toy instead of a person.
-  - sissy:
-      name: sissy
-      definition: A male-identified person who engages in feminization and sometimes humiliation in order to reach a different emotional or mental state.
-  - rigger:
-      name: Rigger
-      definition: A person who practices the art of bondage, usually with rope.
-  - rope_top:
-      name: Rope Top
-      definition: A person who performs rope bondage.
-  - robe_bottom:
-      name: Rope Bottom
-      definition: A person who receives rope bondage.
-  - robe_bunny:
-      name: Rope Bunny
-      definition: A popular alternative for Rope Bottom, often a model for performance, photography or demos.
-  - spanko:
-      name: Spanko
-      definition: A person with a strong interest in spanking and/or being spanked.
-  - spanker:
-      name: Spanker
-      definition: A person who enjoys spanking others.
-  - spankee:
-      name: Spankee
-      definition: A person who enjoys being spanked.
-  - leatherman:
-      name: Leatherman
-      definition: A person who has a fetish for leather and/or espouses the traditions and protocols of a traditional style of BDSM that arose out of the combination of male homosexual BDSM with motorcycle clubs ("biker culture") after World War II.
-  - leatherwoman:
-      name: Leatherwoman
-      definition: A person who has a fetish for leather and/or espouses the traditions and protocols of a traditional style of BDSM that arose out of the combination of male homosexual BDSM with motorcycle clubs ("biker culture") after World War II.
-  - leather_daddy:
-      name: Leather Daddy
-      definition: An authority figure within the leather community or tradition.
-  - leather_mommy:
-      name: Leather Mommy
-      definition: An authority figure within the leather community or tradition.
-  - leather_top:
-      name: Leather Top
-      definition: A person within the leather community or tradition who performs kinky activities on someone.
-  - leather_bottom:
-      name: Leather bottom
-      definition: A person within the leather community or tradition who receives kinky activities from someone.
-  - leatherboy:
-      name: Leatherboy
-      definition: A submissive within the leather community or tradition; usually seeking a paternal/maternal figure.
-  - leathergirl:
-      name: Leathergirl
-      definition: A submissive within the leather community or tradition; usually seeking a paternal/maternal figure.
-  - leatherboi:
-      name: Leatherboi
-      definition: Someone within the leather community or tradition who may be submissive or in a subordinate role, and often doesn't identify with binary gender labels.
-  - bootblack:
-      name: Bootblack
-      definition: A person who specializes in polishing and/or spit-shining boots as part of play, for love of the craft, and/or as a way to give back to the kink community.
-  - primal:
-      name: Primal
-      definition: A person who rejects rules, traditions and protocols and prefers to self-define their role, often associated with foundational and/or animalistic instincts, behaviors, and desires.
-  - primal_predator:
-      name: Primal Predator
-      definition: A primal who enjoys hunting and attempting to capture prey.
-  - primal_prey:
-      name: Primal Prey
-      definition: A primal who enjoys being hunted by a predator.
-  - bull:
-      name: Bull
-      definition: A man who engages in sex with a woman whose partner enjoys the cuckold dynamic.
-  - hotwife:
-      name: Hotwife
-      definition: A married woman who may pursue sexual relationships with men other than her husband, oftentimes to humiliate or degrade him. Her husband has full knowledge of her activities and consents to them.
-  - cuckoldress:
-      name: Cuckoldress
-      definition: A woman who may pursue sexual relationships with men other than her partner, oftentimes to humiliate or degrade her partner. Her partner has full knowledge of her activities and consents to them.
-  - cuckold:
-      name: cuckold
-      definition: A man who enjoys the humiliation and/or voyeuristic experience of watching or knowing their partner has sex with someone else.
-  - cuckquean:
-      name: cuckquean
-      definition: A woman who enjoys the humiliation and/or voyeuristic experience of watching or knowing their partner has sex with someone else.
-  - ageplayer:
-      name: Ageplayer
-      definition: A person who engages in role-play where a different age is taken on by one or more of the participants.
-  - daddy:
-      name: Daddy
-      definition: A person who is nurturing and/or paternal in a relationship.
-  - mommy:
-      name: Mommy
-      definition: A person who is nurturing and/or maternal role in a relationship.
-  - big:
-      name: Big
-      definition: A person who is nurturing and/or parental in a relationship dynamic.
-  - middle:
-      name: Middle
-      definition: A person who identifies with or exhibits a younger mindset and/or behaviors, but feels more like a teen or pre-teen than a little.
-  - little:
-      name: Little
-      definition: A person who identifies with or enjoys exhibiting a child-like mindset and/or behaviors. Their relationships may or may not include a power exchange component.
-  - brat:
-      name: Brat
-      definition: "A person who likes to exhibit one or more of the following behaviors: teasing, playful, sneaky, mischievous, stubborn, rebellious, disrespectful or disobedient. This behavior may be a component of their power exchange relationship."
-  - babygirl:
-      name: babygirl
-      definition: A person who seeks a parental and/or nurturing figure in a relationship, with some identifying as or role playing as a young girl. Also used as an endearment for a female-identified submissive.
-  - babyboy:
-      name: babyboy
-      definition: A person who seeks a parental and/or nurturing figure in a relationship, with some identifying as or role playing as a young boy. Also used as an endearment for a male-identified submissive.
-  - handler:
-      name: Handler
-      definition: A person with a dominant-role in a pet-play dynamic.
-  - furry:
-      name: Furry
-      definition: A person who identifies with a particular anthropomorphic animal or creature, often wearing costumes or tokens representing the animal.
-  - pet:
-      name: pet
-      definition: A person who may or may not identify with animal play who is treated like they are beloved and owned.
-  - kitten:
-      name: kitten
-      definition: A person who enjoys roleplay as a kitten or cat.
-  - pup:
-      name: pup
-      definition: A person who enjoys roleplay as a puppy or dog.
-  - pony:
-      name: pony
-      definition: A person who enjoys roleplay as a pony or horse.
   - drag_king:
       name: Drag King
       definition: A person, typically female-identified, who dresses in clothing of the opposite sex and is often exaggerated for the purpose of entertainment or fashion.
@@ -213,9 +60,162 @@ terms:
   - evolving:
       name: Evolving
       definition: A person who is undergoing gradual change.
+  - exhibitionist:
+      name: Exhibitionist
+      definition: A person who enjoys displaying themselves in a public or semi-public manner in order to attract attention.
   - exploring:
       name: Exploring
       definition: A person who is on an open journey through the world of kink.
+  - fetishist:
+      name: Fetishist
+      definition: A person who is aroused by objects or nonsexual parts of the body.
+  - furry:
+      name: Furry
+      definition: A person who identifies with a particular anthropomorphic animal or creature, often wearing costumes or tokens representing the animal.
+  - handler:
+      name: Handler
+      definition: A person with a dominant-role in a pet-play dynamic.
+  - hedonist:
+      name: Hedonist
+      definition: A person with a strong focus on the pursuit of pleasure.
+  - hotwife:
+      name: Hotwife
+      definition: A married woman who may pursue sexual relationships with men other than her husband, oftentimes to humiliate or degrade him. Her husband has full knowledge of her activities and consents to them.
+  - kajira:
+      name: Kajira
+      definition: A female owned-property slave, as per the world of Gor in John Norman’s fantasy novels.
+  - kajirus:
+      name: Kajirus
+      definition: A male owned-property slave, as per the world of Gor in John Norman’s fantasy novels.
+  - kinkster:
+      name: Kinkster
+      definition: A person who doesn’t want to define their role while engaging in power exchange, role play, sadomasochism, cross-dressing and/or fetishes.
+  - kitten:
+      name: Kitten
+      definition: A person who enjoys roleplay as a kitten or cat.
+  - leather_bottom:
+      name: Leather Bottom
+      definition: A person within the leather community or tradition who receives kinky activities from someone.
+  - leather_daddy:
+      name: Leather Daddy
+      definition: An authority figure within the leather community or tradition.
+  - leather_mommy:
+      name: Leather Mommy
+      definition: An authority figure within the leather community or tradition.
+  - leather_top:
+      name: Leather Top
+      definition: A person within the leather community or tradition who performs kinky activities on someone.
+  - leatherboi:
+      name: Leatherboi
+      definition: Someone within the leather community or tradition who may be submissive or in a subordinate role, and often doesn't identify with binary gender labels.
+  - leatherboy:
+      name: Leatherboy
+      definition: A submissive within the leather community or tradition; usually seeking a paternal/maternal figure.
+  - leathergirl:
+      name: Leathergirl
+      definition: A submissive within the leather community or tradition; usually seeking a paternal/maternal figure.
+  - leatherman:
+      name: Leatherman
+      definition: A person who has a fetish for leather and/or espouses the traditions and protocols of a traditional style of BDSM that arose out of the combination of male homosexual BDSM with motorcycle clubs ("biker culture") after World War II.
+  - leatherwoman:
+      name: Leatherwoman
+      definition: A person who has a fetish for leather and/or espouses the traditions and protocols of a traditional style of BDSM that arose out of the combination of male homosexual BDSM with motorcycle clubs ("biker culture") after World War II.
+  - little:
+      name: Little
+      definition: A person who identifies with or enjoys exhibiting a child-like mindset and/or behaviors. Their relationships may or may not include a power exchange component.
+  - masochist:
+      name: Masochist
+      definition: A person who enjoys receiving pain or humiliation consensually, whether it’s emotionally, mentally or physically.
+  - master:
+      name: Master
+      definition: A person who consensually takes ownership over someone who they are in a relationship with.
+  - middle:
+      name: Middle
+      definition: A person who identifies with or exhibits a younger mindset and/or behaviors, but feels more like a teen or pre-teen than a little.
+  - mistress:
+      name: Mistress
+      definition: A person who consensually takes ownership over someone who they are in a relationship with.
+  - mommy:
+      name: Mommy
+      definition: A person who is nurturing and/or maternal role in a relationship.
+  - pet:
+      name: Pet
+      definition: A person who may or may not identify with animal play who is treated like they are beloved and owned.
+  - pony:
+      name: Pony
+      definition: A person who enjoys roleplay as a pony or horse.
+  - primal:
+      name: Primal
+      definition: A person who rejects rules, traditions and protocols and prefers to self-define their role, often associated with foundational and/or animalistic instincts, behaviors, and desires.
+  - primal_predator:
+      name: Primal Predator
+      definition: A primal who enjoys hunting and attempting to capture prey.
+  - primal_prey:
+      name: Primal Prey
+      definition: A primal who enjoys being hunted by a predator.
+  - princess:
+      name: Princess
+      definition: A person who requires a very particular treatment of praise, care, and attention.
+  - pup:
+      name: Pup
+      definition: A person who enjoys roleplay as a puppy or dog.
+  - rigger:
+      name: Rigger
+      definition: A person who practices the art of bondage, usually with rope.
+  - rope_bottom:
+      name: Rope Bottom
+      definition: A person who receives rope bondage.
+  - rope_bunny:
+      name: Rope Bunny
+      definition: A popular alternative for Rope Bottom, often a model for performance, photography or demos.
+  - rope_top:
+      name: Rope Top
+      definition: A person who performs rope bondage.
+  - sadist:
+      name: Sadist
+      definition: A person who enjoys inflicting humiliation or pain consensually on someone, whether it’s emotionally, mentally or physically.
+  - sadomasochist:
+      name: Sadomasochist
+      definition: A person who engages in sadism and/or masochism.
+  - sensualist:
+      name: Sensualist
+      definition: A person with a strong focus on the pursuit of sensual pleasures and interests.
+  - sissy:
+      name: Sissy
+      definition: A male-identified person who engages in feminization and sometimes humiliation in order to reach a different emotional or mental state.
+  - slave:
+      name: Slave
+      definition: A person who agrees to give total control to someone who they are in a relationship with.
+  - slut:
+      name: Slut
+      definition: A person who embraces the freedom to engage in sexual activity in accordance with their desires, with one or multiple partners, regardless of conventional values.
+  - spankee:
+      name: Spankee
+      definition: A person who enjoys being spanked.
+  - spanker:
+      name: Spanker
+      definition: A person who enjoys spanking others.
+  - spanko:
+      name: Spanko
+      definition: A person with a strong interest in spanking and/or being spanked.
+  - submissive:
+      name: Submissive
+      definition: A person who agrees to submit or give up control in a relationship, scene or activity.
+  - swinger:
+      name: Swinger
+      definition: A person who has consensual sex with other people within and outside of their committed relationships.
+  - switch:
+      name: Switch
+      definition: A person who participates in relationships, scenes and activities as a Top/Dominant or bottom/submissive depending on their mood, partner or the situation. Some switches enjoy changing their power dynamic during the scene.
+  - top:
+      name: Top
+      definition: A person who is consensually in control of the action during kinky activities.
+  - toy:
+      name: Toy
+      definition: One who is treated and played with like a toy instead of a person.
   - vanilla:
       name: Vanilla
       definition: A person with without any identified kinks or fetishes.
+  - voyeur:
+      name: Voyeur
+      definition: A person who enjoys watching others, usually in a sexual context, without engaging with them.
