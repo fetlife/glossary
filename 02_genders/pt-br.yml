@@ -1,0 +1,53 @@
+section_name: Genders
+terms:
+  - male:
+      name: Macho
+      definition: Uma pessoa que tem a identidade e as características de um homem.
+  - female:
+      name: Fêmea
+      definition: Uma pessoa que tem a identidade e as características de uma mulher.
+  - cdtv:
+      name: Crossdresser/Transvestite
+      definition: Uma pessoa que gosta de se vestir e agir em um estilo ou maneira tradicionalmente associado ao gênero oposto.
+  - transgender:
+      name: Transgênero 
+      definition: Uma pessoa que o senso de identidade pessoal e gênero não corresponde ao sexo biológico definido no seu nascimento.
+  - transsexual:
+      name: Transsexual
+      definition: Uma pessoa que não se identifica com o sexo que nasceu e está em transição para o gênero que ele(a) se identifica, normalmente (mas não sempre) com assistência médica.
+  - trans_man:
+      name: Homem Trans
+      definition: Uma pessoa que é transgênero ou transsexual e que se identifica como um homem.
+  - trans_woman:
+      name: Mulher Trans
+      definition: Uma pessoa que é transgênero ou transsexual e que se identifica como uma mulher.
+  - intersex:
+      name: Intersexo
+      definition: Uma pessoa que nasce com uma anatomia reprodutiva ou sexual que não corresponde a definição típica de macho ou fêmea.
+  - butch:
+      name: Butch
+      definition: Uma pessoa que é tipicamente identifica como fêmea que suas relações e papéis sociais é identificado por muitos como sendo masculino, muitas vezes tendo uma orientação sexual lésbica, gay ou queer.
+  - femme:
+      name: Femme
+      definition: Uma pessoa que tem a aparência ou outra caracteristica tradicionalmente visto como feminina, muitas vezes tendo uma orientação sexual lésbica, gay ou queer.
+  - non_binary:
+      name: Gênero não-binário
+      definition: Uma pessoa que o gênero não entra dentro do escopo macho-fêmea.
+  - gender_fluid:
+      name: Gênero-fluido
+      definition: Uma pessoa que varia entre mais de um gênero ou entre tendo um gênero ou não.
+  - genderqueer:
+      name: Genderqueer
+      definition: Uma pessoa que o gênero não entra dentro do escopo macho-fêmea.
+  - androgynous:
+      name: Andrógeno
+      definition: Uma pessoa que se identifica com características femininas e masculinas.
+  - agender:
+      name: Agênero
+      definition: Uma pessoa que não se identifica como tendo um gênero.
+  - bi_gender:
+      name: Bigênero
+      definition: Uma pessoa que se identifica como tendo dois ou mais gêneros, ao mesmo tempo ou não.
+  - two_spirit:
+      name: Dois espíritos
+      definition: Uma pessoa que tem ambos os espíritos masculinos e femininos. É usado pelos indigênas First Nations e Nativos Americanos para descrever sua identidade sexual, de gênero e/ou espiritual.
