@@ -1,0 +1,44 @@
+section_name: Orientations
+terms:
+  - straight:
+      name: Hétero
+      definition: Uma pessoa que é atraída pelo gênero oposto de maneira sexual e/ou romântica. 
+  - heteroflexible:
+      name: Heteroflexível
+      definition: Uma pessoa que se identifica primariamente como hétero, mas ocasionalmente se atraí pelo mesmo gênero de maneira sexual e/ou romântica.
+  - bisexual:
+      name: Bissexual
+      definition: Uma pessoa que é atraída sexualmente e/ou romanticamente pelo gênero oposto e ao seu mesmo.
+  - bi_curious:
+      name: Bi-curioso
+      definition: Uma pessoa que é curiosa em ter relações sexuais com alguém do mesmo sexo, mas não se considera bissexual.
+  - homoflexible:
+      name: Homo flexível
+      definition: Uma pessoa que se identifica primariamente como homo, mas ocasionalmente se atraí pelo gênero oposto de maneira sexual e/ou romântica.
+  - gay:
+      name: Gay
+      definition: Um homem que é primariamente atraído por outros homens de maneira sexual e/ou romântica.
+  - lesbian:
+      name: Lésbica
+      definition: Uma mulher que é primariamente atraída por outras mulheres de maneira sexual e/ou romântica.
+  - queer:
+      name: Queer
+      definition: Uma pessoa que não se identifica com as categorias tradicionais relacionadas a identidade de gênero e orientação sexual.
+  - pansexual:
+      name: Pansexual
+      definition: Uma pessoa que é atraída e pode formar relações sexuais e/ou românticas com homens, mulheres e pessoas que se identificam fora do espectro binário de gênero.
+  - demisexual:
+      name: Demisexual
+      description: Uma pessoa que não experiencia atração sexual até criar uma forte conexão emocional com alguém. O termo demisexual vem da orientação entre ser sexual e asexual.
+  - asexual:
+      name: Asexual
+      definition: Uma pessoa que tem interesses sexuais baixos ou nulos por pessoas de qualquer gênero.
+  - greysexual:
+      name: Greysexual
+      description: Uma pessoa que experiencia atração sexual em circunstancias muito limitadas e específicas.
+  - sapiosexual:
+      name: Sapiosexual
+      description: Uma pessoa que é sexualmente atraída pela inteligência.
+  - fluctuating:
+      name: Flutuando/Evoluindo
+      definition: Uma pessoa que a responsividade sexual está mudando/evoluindo. 
